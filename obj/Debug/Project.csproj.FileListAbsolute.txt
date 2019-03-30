@@ -1,0 +1,162 @@
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\MovieTicketBookingSystem.FormAdminHome.resources
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\MovieTicketBookingSystem.FormLogin.resources
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\TITLY\5th Semester\C#\Project\Project\bin\Debug\Project.exe
+D:\TITLY\5th Semester\C#\Project\Project\bin\Debug\Project.pdb
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\Project.exe
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\Project.pdb
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\MovieTicketBookingSystem.Change_Password.resources
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\MovieTicketBookingSystem.Add_Manager.resources
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\MovieTicketBookingSystem.Employee_List.resources
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\MovieTicketBookingSystem.Sell_History.resources
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\MovieTicketBookingSystem.Add_Employee.resources
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\MovieTicketBookingSystem.Add_Hall.resources
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\MovieTicketBookingSystem.Manager_Home.resources
+D:\TITLY\5th Semester\C#\Project\Project\obj\Debug\MovieTicketBookingSystem.MEmployee_List.resources
+D:\TITLY\5th Semester\Project\Project\bin\Debug\Project.exe
+D:\TITLY\5th Semester\Project\Project\bin\Debug\Project.pdb
+D:\TITLY\5th Semester\Project\Project\bin\Debug\MetroFramework.Design.dll
+D:\TITLY\5th Semester\Project\Project\bin\Debug\MetroFramework.dll
+D:\TITLY\5th Semester\Project\Project\bin\Debug\MetroFramework.Fonts.dll
+D:\TITLY\5th Semester\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\TITLY\5th Semester\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\TITLY\5th Semester\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\TITLY\5th Semester\Project\Project\obj\Debug\Project.exe
+D:\TITLY\5th Semester\Project\Project\obj\Debug\Project.pdb
+C:\Users\Hades\Desktop\New folder\Project\Project\bin\Debug\Project.exe
+C:\Users\Hades\Desktop\New folder\Project\Project\bin\Debug\Project.pdb
+C:\Users\Hades\Desktop\New folder\Project\Project\bin\Debug\MetroFramework.Design.dll
+C:\Users\Hades\Desktop\New folder\Project\Project\bin\Debug\MetroFramework.dll
+C:\Users\Hades\Desktop\New folder\Project\Project\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Edit_Profile.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Movie_Date_Update.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Print_Ticket.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Employee.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Hall.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Manager.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Movie.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.FormAdminHome.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Change_Password.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Delete_Movie.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Employee_Home.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Employee_List.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.FormLogin.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Manager_Home.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.MEmployee_List.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Movie_Info.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Schedule_Manager_Home.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Seat_Booking.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Sell_History.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.SellorCancel_Ticket.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Ticket_Booking.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Welcome.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\Project.exe
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\Project.pdb
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.AssignMovieToHall.resources
+C:\Users\Hades\Desktop\New folder\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\bin\Debug\Project.exe
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\bin\Debug\Project.pdb
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\bin\Debug\MetroFramework.Design.dll
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\bin\Debug\MetroFramework.dll
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.AssignMovieToHall.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Edit_Profile.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Movie_Date_Update.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Print_Ticket.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Employee.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Hall.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Manager.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Movie.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.FormAdminHome.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Change_Password.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Delete_Movie.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Employee_Home.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Employee_List.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.FormLogin.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Manager_Home.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.MEmployee_List.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Movie_Info.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Schedule_Manager_Home.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Seat_Booking.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Sell_History.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.SellorCancel_Ticket.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Ticket_Booking.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Welcome.resources
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\Project.exe
+C:\Users\hasan\Downloads\ProjectUpdate4\Project\Project\obj\Debug\Project.pdb
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\bin\Debug\Project.exe
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\bin\Debug\Project.pdb
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\bin\Debug\MetroFramework.Design.dll
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\bin\Debug\MetroFramework.dll
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.AssignMovieToHall.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Edit_Profile.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Movie_Date_Update.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Print_Ticket.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Employee.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Hall.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Manager.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Movie.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.FormAdminHome.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Change_Password.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Delete_Movie.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Employee_Home.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Employee_List.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.FormLogin.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Manager_Home.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.MEmployee_List.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Movie_Info.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Schedule_Manager_Home.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Seat_Booking.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Sell_History.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.SellorCancel_Ticket.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Ticket_Booking.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Welcome.resources
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\Project.exe
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\obj\Debug\Project.pdb
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\bin\Debug\itextsharp.dll
+C:\Users\hasan\Downloads\ProjectUpdate5\Project\Project\bin\Debug\itextsharp.xml
+D:\TITLY\5th Semester\Project\Project\bin\Debug\itextsharp.dll
+D:\TITLY\5th Semester\Project\Project\bin\Debug\itextsharp.xml
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.AssignMovieToHall.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Edit_Profile.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Movie_Date_Update.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Print_Ticket.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Employee.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Hall.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Manager.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Add_Movie.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.FormAdminHome.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Change_Password.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Delete_Movie.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Employee_Home.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Employee_List.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.FormLogin.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Manager_Home.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.MEmployee_List.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Movie_Info.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Schedule_Manager_Home.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Seat_Booking.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Sell_History.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.SellorCancel_Ticket.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Ticket_Booking.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\MovieTicketBookingSystem.PLL.Welcome.resources
+D:\TITLY\5th Semester\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
